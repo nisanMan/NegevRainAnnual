@@ -1,0 +1,10 @@
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore CSV files
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+ignor/
