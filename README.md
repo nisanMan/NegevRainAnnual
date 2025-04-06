@@ -1,7 +1,7 @@
 # 🌧️ Explore Annual Rainfall Patterns in Southern Israel
-[slideshows](https://nisanman.github.io/NegevRainAnnual/#/)<br>
-[![IMS Logo](https://ims.gov.il/themes/imst/ims/images/logo.jpg)](https://ims.gov.il/en)
 
+[![IMS Logo](https://ims.gov.il/themes/imst/ims/images/logo.jpg)](https://ims.gov.il/en)<br>
+# [slideshows](https://nisanman.github.io/NegevRainAnnual/#/)
 This is a data presentation project based on rainfall analysis using Python and Jupyter Notebook.
 
 ## 🔍 Overview
