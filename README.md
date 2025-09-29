@@ -18,4 +18,6 @@ This study challenges the assumption that rainfall patterns are solely influence
 While examining a 70-year span, the slope of the trendline varies significantly, but by focusing on periods of at least 10 years, a consistent downward trend emerges, marked by a predominant red hue, particularly in the upper corner. This suggests a clear and ongoing decrease in rainfall over time.
 
 ## 📈 Tableau 📉
-[Click here to view the Tableau visualization](https://public.tableau.com/shared/GN7J29MRK?:display_count=n&:origin=viz_share_link)
+[Click here to view the Tableau visualization](https://public.tableau.com/views/RainTrendAnalysisInSouthernIsrael/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Rain Trend Analysis](https://public.tableau.com/static/images/Ra/RainTrendAnalysisInSouthernIsrael/Story1/1.png)](https://public.tableau.com/views/RainTrendAnalysisInSouthernIsrael/Story1)
